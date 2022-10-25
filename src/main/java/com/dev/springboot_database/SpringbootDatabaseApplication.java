@@ -1,5 +1,6 @@
 package com.dev.springboot_database;
 
+import com.dev.springboot_database.util.StringUtil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
